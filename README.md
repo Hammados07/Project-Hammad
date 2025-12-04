@@ -1,7 +1,7 @@
 ---
 ## 📝 Project Overview
 
-This capstone contains **four independent SQL projects**, each demonstrating mastery over database design, relationships, querying, aggregation, analytics, and OLAP operations.
+This capstone contains **four independent SQL projects**, each demonstrating great understanding over database design, relationships, querying, aggregation, analytics, and OLAP operations.
 ---
 
 # ✅ **TASK 1 — Academic Management System**
