@@ -1,7 +1,7 @@
 ---
 ## 📝 Project Overview
 
-This capstone contains **four independent SQL projects**, each demonstrating great understanding of database design, relationships, querying, aggregation, analytics, and OLAP operations.
+This capstone contains **independent SQL projects (Tasks 1–4 capstone, Task 5+ ongoing)**, each demonstrating great understanding of database design, relationships, querying, aggregation, analytics, and OLAP operations.
 ---
 
 # ✅ **TASK 1 — Academic Management System**
@@ -82,6 +82,22 @@ This capstone contains **four independent SQL projects**, each demonstrating gre
 
 📸 *Screenshots available under:*  
 `/screenshots/task4/`
+
+---
+
+# ✅ **TASK 5 — Side Hustle Tracker (PostgreSQL)**
+
+**Database:** `side_hustle_tracker`  
+**Tables:** `ventures`, `time_log`, `content`, `income`, `expenses` + view `venture_pnl`
+
+### Includes:
+- Constraints (FKs, CHECKs, defaults) and sample data
+- Hours invested per venture and per week
+- Content performance ranking with window functions
+- Running follower growth
+- Profit & loss per venture, earnings per hour, monthly cash flow
+
+Supports the personal roadmap in [`/growth-plan`](growth-plan/README.md) (side income, content, books, upskilling and upcoming projects).
 
 ---
 
