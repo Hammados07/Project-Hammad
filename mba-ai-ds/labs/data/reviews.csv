@@ -1,0 +1,601 @@
+review_id,text,topic,sentiment
+1,"Polite and patient, about internet, asked about recharge, solved my problem.",network,positive
+2,"About agent, checked my balance, solved my problem, very helpful.",service,positive
+3,"Updated my address, about call, easy refund, great service.",service,positive
+4,"No callback, about payment, checked my balance, call dropped.",billing,negative
+5,"Slow internet, call dropped, about wait, asked about recharge.",service,negative
+6,"Solved my problem, about call, called about my plan, easy refund.",service,positive
+7,"Easy refund, about signal, solved my problem, updated my address.",network,positive
+8,"Asked about recharge, about signal, rude agent, hidden charges.",network,negative
+9,"About speed, wrong bill, asked about recharge, terrible service.",network,negative
+10,"About signal, terrible service, asked about recharge, problem not solved.",network,negative
+11,"Excellent support, about call, checked my balance, fast response.",service,positive
+12,"Updated my address, about speed, transferred many times, no callback.",network,negative
+13,"Wrong bill, asked about recharge, about support, long wait time.",service,negative
+14,"Easy refund, about signal, checked my balance, polite and patient.",network,positive
+15,"Called about my plan, about network, excellent support, fast response.",network,positive
+16,"Rude agent, asked about recharge, no callback, about network.",network,negative
+17,"Checked my balance, rude agent, about network, hidden charges.",network,negative
+18,"Solved my problem, called about my plan, about call, polite and patient.",service,positive
+19,"About call, call dropped, asked about recharge, terrible service.",service,negative
+20,"About refund, updated my address, polite and patient, excellent support.",billing,positive
+21,"Asked about recharge, about agent, easy refund, very helpful.",service,positive
+22,"Checked my balance, fast response, easy refund, about signal.",network,positive
+23,"Asked about recharge, transferred many times, about refund, long wait time.",billing,negative
+24,"About signal, asked about recharge, friendly agent, solved my problem.",network,positive
+25,"Asked about recharge, about wait, terrible service, long wait time.",service,negative
+26,"About network, updated my address, call dropped, terrible service.",network,negative
+27,"Friendly agent, checked my balance, quick resolution, about signal.",network,positive
+28,"Asked about recharge, call dropped, about call, no callback.",service,negative
+29,"Rude agent, problem not solved, checked my balance, about network.",network,negative
+30,"Clear explanation, updated my address, easy refund, about support.",service,positive
+31,"About wait, no callback, called about my plan, problem not solved.",service,negative
+32,"Fast response, about support, easy refund, checked my balance.",service,positive
+33,"Quick resolution, about speed, called about my plan, friendly agent.",network,positive
+34,"About internet, easy refund, updated my address, great service.",network,positive
+35,"Transferred many times, about payment, rude agent, updated my address.",billing,negative
+36,"Easy refund, called about my plan, about signal, solved my problem.",network,positive
+37,"About wait, hidden charges, transferred many times, checked my balance.",service,negative
+38,"Slow internet, about network, asked about recharge, transferred many times.",network,negative
+39,"No callback, updated my address, transferred many times, about internet.",network,negative
+40,"Quick resolution, updated my address, easy refund, about call.",service,positive
+41,"About bill, called about my plan, solved my problem, easy refund.",billing,positive
+42,"Great service, asked about recharge, easy refund, about bill.",billing,positive
+43,"Transferred many times, checked my balance, about bill, call dropped.",billing,negative
+44,"Quick resolution, great service, about charges, checked my balance.",billing,positive
+45,"Slow internet, asked about recharge, problem not solved, about agent.",service,negative
+46,"About bill, checked my balance, wrong bill, no callback.",billing,negative
+47,"Called about my plan, about bill, rude agent, hidden charges.",billing,negative
+48,"About call, asked about recharge, problem not solved, call dropped.",service,negative
+49,"About wait, no callback, transferred many times, checked my balance.",service,negative
+50,"Slow internet, about wait, rude agent, called about my plan.",service,negative
+51,"Clear explanation, very helpful, about network, asked about recharge.",network,positive
+52,"Rude agent, no callback, checked my balance, about wait.",service,negative
+53,"About agent, checked my balance, solved my problem, very helpful.",service,positive
+54,"Friendly agent, about signal, solved my problem, checked my balance.",network,positive
+55,"About refund, friendly agent, excellent support, checked my balance.",billing,positive
+56,"Clear explanation, checked my balance, friendly agent, about speed.",network,positive
+57,"Updated my address, about speed, rude agent, hidden charges.",network,negative
+58,"About refund, slow internet, checked my balance, long wait time.",billing,negative
+59,"Polite and patient, clear explanation, asked about recharge, about speed.",network,positive
+60,"Checked my balance, no callback, call dropped, about support.",service,negative
+61,"About internet, friendly agent, solved my problem, updated my address.",network,positive
+62,"About internet, called about my plan, easy refund, solved my problem.",network,positive
+63,"About charges, updated my address, rude agent, call dropped.",billing,negative
+64,"Updated my address, about network, solved my problem, friendly agent.",network,positive
+65,"Terrible service, updated my address, about bill, call dropped.",billing,negative
+66,"About signal, asked about recharge, no callback, rude agent.",network,negative
+67,"About signal, polite and patient, very helpful, called about my plan.",network,positive
+68,"Problem not solved, about call, asked about recharge, transferred many times.",service,negative
+69,"Call dropped, about call, updated my address, transferred many times.",service,negative
+70,"Call dropped, called about my plan, slow internet, about support.",service,negative
+71,"No callback, called about my plan, long wait time, about bill.",billing,negative
+72,"About bill, very helpful, checked my balance, solved my problem.",billing,positive
+73,"Hidden charges, called about my plan, about call, slow internet.",service,negative
+74,"Long wait time, about payment, checked my balance, transferred many times.",billing,negative
+75,"Fast response, easy refund, about call, asked about recharge.",service,positive
+76,"No callback, about charges, slow internet, asked about recharge.",billing,negative
+77,"Hidden charges, asked about recharge, transferred many times, about bill.",billing,negative
+78,"About charges, long wait time, asked about recharge, terrible service.",billing,negative
+79,"Hidden charges, no callback, about refund, checked my balance.",billing,negative
+80,"Checked my balance, about payment, easy refund, fast response.",billing,positive
+81,"Solved my problem, clear explanation, called about my plan, about charges.",billing,positive
+82,"About call, problem not solved, long wait time, asked about recharge.",service,negative
+83,"About internet, asked about recharge, clear explanation, quick resolution.",network,positive
+84,"Solved my problem, very helpful, updated my address, about wait.",service,positive
+85,"Updated my address, slow internet, no callback, about internet.",network,negative
+86,"No callback, updated my address, terrible service, about speed.",network,negative
+87,"Updated my address, excellent support, great service, about bill.",billing,positive
+88,"About agent, long wait time, checked my balance, wrong bill.",service,negative
+89,"Asked about recharge, about bill, terrible service, wrong bill.",billing,negative
+90,"Clear explanation, about network, polite and patient, checked my balance.",network,positive
+91,"Excellent support, easy refund, called about my plan, about payment.",billing,positive
+92,"About payment, problem not solved, asked about recharge, slow internet.",billing,negative
+93,"Updated my address, solved my problem, fast response, about signal.",network,positive
+94,"Excellent support, fast response, called about my plan, about refund.",billing,positive
+95,"About network, transferred many times, checked my balance, slow internet.",network,negative
+96,"Fast response, updated my address, about signal, polite and patient.",network,positive
+97,"Problem not solved, wrong bill, about bill, updated my address.",billing,negative
+98,"Call dropped, updated my address, problem not solved, about wait.",service,negative
+99,"Updated my address, about wait, wrong bill, terrible service.",service,negative
+100,"Called about my plan, hidden charges, slow internet, about agent.",service,negative
+101,"About payment, problem not solved, rude agent, checked my balance.",billing,negative
+102,"Asked about recharge, slow internet, about network, wrong bill.",network,negative
+103,"About speed, slow internet, checked my balance, call dropped.",network,negative
+104,"Friendly agent, polite and patient, about internet, asked about recharge.",network,positive
+105,"Quick resolution, excellent support, asked about recharge, about refund.",billing,positive
+106,"Updated my address, call dropped, no callback, about speed.",network,negative
+107,"About internet, excellent support, fast response, checked my balance.",network,positive
+108,"Problem not solved, about wait, called about my plan, slow internet.",service,negative
+109,"Terrible service, long wait time, called about my plan, about bill.",billing,negative
+110,"Updated my address, about refund, excellent support, friendly agent.",billing,positive
+111,"Clear explanation, updated my address, about agent, great service.",service,positive
+112,"Hidden charges, checked my balance, about speed, wrong bill.",network,negative
+113,"Very helpful, asked about recharge, about refund, solved my problem.",billing,positive
+114,"Call dropped, about speed, wrong bill, asked about recharge.",network,negative
+115,"Hidden charges, about payment, problem not solved, updated my address.",billing,negative
+116,"About agent, asked about recharge, long wait time, wrong bill.",service,negative
+117,"Hidden charges, asked about recharge, terrible service, about call.",service,negative
+118,"About refund, hidden charges, updated my address, transferred many times.",billing,negative
+119,"About wait, called about my plan, rude agent, no callback.",service,negative
+120,"Updated my address, about wait, fast response, solved my problem.",service,positive
+121,"Problem not solved, checked my balance, about agent, wrong bill.",service,negative
+122,"About network, easy refund, fast response, checked my balance.",network,positive
+123,"No callback, about wait, updated my address, transferred many times.",service,negative
+124,"Problem not solved, about wait, wrong bill, asked about recharge.",service,negative
+125,"Polite and patient, about refund, checked my balance, excellent support.",billing,positive
+126,"Asked about recharge, long wait time, wrong bill, about agent.",service,negative
+127,"Updated my address, long wait time, about charges, hidden charges.",billing,negative
+128,"Hidden charges, asked about recharge, wrong bill, about support.",service,negative
+129,"Polite and patient, about internet, friendly agent, updated my address.",network,positive
+130,"Solved my problem, updated my address, very helpful, about internet.",network,positive
+131,"Called about my plan, wrong bill, about support, hidden charges.",service,negative
+132,"Excellent support, about network, solved my problem, updated my address.",network,positive
+133,"Checked my balance, about support, very helpful, polite and patient.",service,positive
+134,"About speed, slow internet, updated my address, problem not solved.",network,negative
+135,"Hidden charges, called about my plan, call dropped, about payment.",billing,negative
+136,"About internet, great service, updated my address, easy refund.",network,positive
+137,"Long wait time, problem not solved, asked about recharge, about refund.",billing,negative
+138,"Terrible service, slow internet, updated my address, about refund.",billing,negative
+139,"About signal, asked about recharge, call dropped, terrible service.",network,negative
+140,"About charges, asked about recharge, easy refund, very helpful.",billing,positive
+141,"About signal, updated my address, rude agent, slow internet.",network,negative
+142,"About signal, solved my problem, checked my balance, clear explanation.",network,positive
+143,"About call, slow internet, transferred many times, called about my plan.",service,negative
+144,"About wait, transferred many times, asked about recharge, terrible service.",service,negative
+145,"Updated my address, problem not solved, about support, wrong bill.",service,negative
+146,"Hidden charges, about wait, no callback, asked about recharge.",service,negative
+147,"Called about my plan, problem not solved, long wait time, about signal.",network,negative
+148,"Checked my balance, about refund, solved my problem, easy refund.",billing,positive
+149,"Rude agent, problem not solved, asked about recharge, about signal.",network,negative
+150,"Problem not solved, called about my plan, about speed, slow internet.",network,negative
+151,"Terrible service, about charges, long wait time, called about my plan.",billing,negative
+152,"About payment, polite and patient, quick resolution, called about my plan.",billing,positive
+153,"Very helpful, easy refund, about internet, updated my address.",network,positive
+154,"About internet, checked my balance, long wait time, no callback.",network,negative
+155,"Long wait time, about wait, updated my address, rude agent.",service,negative
+156,"About call, easy refund, fast response, asked about recharge.",service,positive
+157,"Easy refund, fast response, about internet, updated my address.",network,positive
+158,"Slow internet, about payment, updated my address, problem not solved.",billing,negative
+159,"About refund, terrible service, asked about recharge, long wait time.",billing,negative
+160,"About network, wrong bill, checked my balance, terrible service.",network,negative
+161,"About wait, friendly agent, called about my plan, quick resolution.",service,positive
+162,"Friendly agent, about call, very helpful, asked about recharge.",service,positive
+163,"Long wait time, terrible service, about speed, checked my balance.",network,negative
+164,"Clear explanation, asked about recharge, about signal, quick resolution.",network,positive
+165,"About agent, slow internet, problem not solved, asked about recharge.",service,negative
+166,"Hidden charges, checked my balance, about network, rude agent.",network,negative
+167,"Call dropped, no callback, called about my plan, about support.",service,negative
+168,"Terrible service, wrong bill, asked about recharge, about agent.",service,negative
+169,"Called about my plan, about payment, transferred many times, hidden charges.",billing,negative
+170,"About support, friendly agent, easy refund, checked my balance.",service,positive
+171,"Clear explanation, polite and patient, called about my plan, about payment.",billing,positive
+172,"Called about my plan, solved my problem, very helpful, about support.",service,positive
+173,"Wrong bill, about agent, call dropped, checked my balance.",service,negative
+174,"Terrible service, problem not solved, about signal, called about my plan.",network,negative
+175,"Transferred many times, called about my plan, about support, terrible service.",service,negative
+176,"Updated my address, excellent support, about payment, great service.",billing,positive
+177,"About refund, polite and patient, excellent support, updated my address.",billing,positive
+178,"About network, terrible service, called about my plan, rude agent.",network,negative
+179,"Updated my address, clear explanation, quick resolution, about agent.",service,positive
+180,"Hidden charges, rude agent, about support, updated my address.",service,negative
+181,"About payment, checked my balance, solved my problem, easy refund.",billing,positive
+182,"Excellent support, updated my address, clear explanation, about charges.",billing,positive
+183,"Updated my address, easy refund, excellent support, about bill.",billing,positive
+184,"Clear explanation, about network, friendly agent, called about my plan.",network,positive
+185,"Quick resolution, asked about recharge, solved my problem, about support.",service,positive
+186,"Transferred many times, call dropped, about wait, updated my address.",service,negative
+187,"Wrong bill, called about my plan, about agent, long wait time.",service,negative
+188,"Updated my address, slow internet, about speed, transferred many times.",network,negative
+189,"Called about my plan, about call, terrible service, problem not solved.",service,negative
+190,"About wait, problem not solved, called about my plan, call dropped.",service,negative
+191,"Asked about recharge, fast response, about charges, great service.",billing,positive
+192,"About payment, checked my balance, transferred many times, hidden charges.",billing,negative
+193,"Updated my address, great service, very helpful, about speed.",network,positive
+194,"About network, checked my balance, polite and patient, great service.",network,positive
+195,"Asked about recharge, about charges, polite and patient, clear explanation.",billing,positive
+196,"Clear explanation, about payment, asked about recharge, polite and patient.",billing,positive
+197,"Wrong bill, about network, checked my balance, terrible service.",network,negative
+198,"Friendly agent, excellent support, updated my address, about speed.",network,positive
+199,"Long wait time, checked my balance, about speed, call dropped.",network,negative
+200,"Polite and patient, asked about recharge, about wait, friendly agent.",service,positive
+201,"About bill, solved my problem, excellent support, asked about recharge.",billing,positive
+202,"About refund, long wait time, transferred many times, asked about recharge.",billing,negative
+203,"About refund, updated my address, slow internet, call dropped.",billing,negative
+204,"Easy refund, checked my balance, about agent, very helpful.",service,positive
+205,"Very helpful, asked about recharge, about speed, quick resolution.",network,positive
+206,"About wait, checked my balance, wrong bill, transferred many times.",service,negative
+207,"About agent, clear explanation, updated my address, easy refund.",service,positive
+208,"Clear explanation, easy refund, about refund, asked about recharge.",billing,positive
+209,"Updated my address, about signal, quick resolution, excellent support.",network,positive
+210,"Updated my address, very helpful, about speed, clear explanation.",network,positive
+211,"About bill, slow internet, hidden charges, asked about recharge.",billing,negative
+212,"About support, long wait time, call dropped, checked my balance.",service,negative
+213,"About support, wrong bill, called about my plan, call dropped.",service,negative
+214,"Easy refund, about call, very helpful, checked my balance.",service,positive
+215,"Updated my address, terrible service, problem not solved, about charges.",billing,negative
+216,"Long wait time, transferred many times, about network, called about my plan.",network,negative
+217,"Polite and patient, about payment, very helpful, asked about recharge.",billing,positive
+218,"Friendly agent, about agent, updated my address, fast response.",service,positive
+219,"Asked about recharge, long wait time, about payment, wrong bill.",billing,negative
+220,"No callback, updated my address, about payment, wrong bill.",billing,negative
+221,"Polite and patient, about wait, called about my plan, clear explanation.",service,positive
+222,"Asked about recharge, polite and patient, clear explanation, about refund.",billing,positive
+223,"About refund, no callback, updated my address, slow internet.",billing,negative
+224,"Polite and patient, about charges, excellent support, called about my plan.",billing,positive
+225,"About speed, slow internet, called about my plan, no callback.",network,negative
+226,"Call dropped, asked about recharge, no callback, about refund.",billing,negative
+227,"Hidden charges, about support, transferred many times, asked about recharge.",service,negative
+228,"Asked about recharge, about call, fast response, great service.",service,positive
+229,"Clear explanation, about network, checked my balance, easy refund.",network,positive
+230,"Slow internet, about network, called about my plan, transferred many times.",network,negative
+231,"Wrong bill, checked my balance, about charges, hidden charges.",billing,negative
+232,"Great service, about call, fast response, asked about recharge.",service,positive
+233,"About internet, long wait time, called about my plan, problem not solved.",network,negative
+234,"Fast response, asked about recharge, about signal, clear explanation.",network,positive
+235,"About wait, updated my address, slow internet, problem not solved.",service,negative
+236,"About support, call dropped, updated my address, slow internet.",service,negative
+237,"About refund, updated my address, transferred many times, wrong bill.",billing,negative
+238,"Asked about recharge, about speed, hidden charges, wrong bill.",network,negative
+239,"Call dropped, transferred many times, updated my address, about support.",service,negative
+240,"About internet, friendly agent, solved my problem, updated my address.",network,positive
+241,"About internet, checked my balance, clear explanation, quick resolution.",network,positive
+242,"Hidden charges, about wait, problem not solved, asked about recharge.",service,negative
+243,"Very helpful, about internet, friendly agent, updated my address.",network,positive
+244,"About call, hidden charges, called about my plan, call dropped.",service,negative
+245,"Updated my address, great service, about internet, easy refund.",network,positive
+246,"Quick resolution, clear explanation, asked about recharge, about internet.",network,positive
+247,"Problem not solved, checked my balance, call dropped, about bill.",billing,negative
+248,"Quick resolution, about bill, called about my plan, solved my problem.",billing,positive
+249,"Long wait time, call dropped, checked my balance, about support.",service,negative
+250,"Asked about recharge, no callback, transferred many times, about wait.",service,negative
+251,"About support, polite and patient, updated my address, solved my problem.",service,positive
+252,"Polite and patient, asked about recharge, about refund, easy refund.",billing,positive
+253,"Asked about recharge, rude agent, slow internet, about call.",service,negative
+254,"Easy refund, polite and patient, about bill, asked about recharge.",billing,positive
+255,"Called about my plan, slow internet, about signal, hidden charges.",network,negative
+256,"Solved my problem, called about my plan, about call, quick resolution.",service,positive
+257,"Great service, fast response, about speed, checked my balance.",network,positive
+258,"Terrible service, call dropped, about payment, checked my balance.",billing,negative
+259,"Checked my balance, about call, rude agent, wrong bill.",service,negative
+260,"Called about my plan, long wait time, hidden charges, about support.",service,negative
+261,"About network, asked about recharge, terrible service, rude agent.",network,negative
+262,"Friendly agent, called about my plan, about bill, clear explanation.",billing,positive
+263,"Asked about recharge, excellent support, polite and patient, about payment.",billing,positive
+264,"Easy refund, about wait, updated my address, fast response.",service,positive
+265,"Called about my plan, about call, very helpful, great service.",service,positive
+266,"Checked my balance, hidden charges, about internet, call dropped.",network,negative
+267,"Solved my problem, updated my address, about call, easy refund.",service,positive
+268,"About internet, checked my balance, great service, very helpful.",network,positive
+269,"About internet, hidden charges, terrible service, asked about recharge.",network,negative
+270,"Solved my problem, asked about recharge, about call, clear explanation.",service,positive
+271,"Call dropped, rude agent, updated my address, about network.",network,negative
+272,"Called about my plan, clear explanation, about bill, solved my problem.",billing,positive
+273,"Hidden charges, about charges, slow internet, updated my address.",billing,negative
+274,"Updated my address, friendly agent, quick resolution, about payment.",billing,positive
+275,"Hidden charges, called about my plan, about internet, call dropped.",network,negative
+276,"Updated my address, fast response, about network, clear explanation.",network,positive
+277,"Clear explanation, about wait, easy refund, updated my address.",service,positive
+278,"Rude agent, called about my plan, terrible service, about wait.",service,negative
+279,"Wrong bill, terrible service, asked about recharge, about speed.",network,negative
+280,"About signal, asked about recharge, solved my problem, very helpful.",network,positive
+281,"Checked my balance, rude agent, hidden charges, about internet.",network,negative
+282,"About agent, called about my plan, polite and patient, fast response.",service,positive
+283,"Updated my address, slow internet, hidden charges, about refund.",billing,negative
+284,"Checked my balance, no callback, about wait, terrible service.",service,negative
+285,"About signal, very helpful, great service, called about my plan.",network,positive
+286,"Terrible service, about internet, no callback, asked about recharge.",network,negative
+287,"Slow internet, about wait, call dropped, checked my balance.",service,negative
+288,"Transferred many times, about charges, long wait time, checked my balance.",billing,negative
+289,"Long wait time, asked about recharge, terrible service, about support.",service,negative
+290,"Long wait time, about support, hidden charges, asked about recharge.",service,negative
+291,"Problem not solved, about payment, wrong bill, checked my balance.",billing,negative
+292,"Wrong bill, problem not solved, updated my address, about charges.",billing,negative
+293,"Clear explanation, about support, great service, called about my plan.",service,positive
+294,"Asked about recharge, transferred many times, about speed, problem not solved.",network,negative
+295,"Hidden charges, terrible service, updated my address, about payment.",billing,negative
+296,"Rude agent, about signal, call dropped, updated my address.",network,negative
+297,"Transferred many times, about network, checked my balance, terrible service.",network,negative
+298,"Called about my plan, about signal, rude agent, wrong bill.",network,negative
+299,"Called about my plan, great service, about wait, very helpful.",service,positive
+300,"Call dropped, wrong bill, about signal, updated my address.",network,negative
+301,"Slow internet, updated my address, hidden charges, about bill.",billing,negative
+302,"Call dropped, terrible service, asked about recharge, about speed.",network,negative
+303,"About payment, no callback, terrible service, checked my balance.",billing,negative
+304,"Hidden charges, about network, asked about recharge, transferred many times.",network,negative
+305,"Slow internet, checked my balance, transferred many times, about bill.",billing,negative
+306,"Updated my address, about internet, terrible service, rude agent.",network,negative
+307,"Updated my address, fast response, about network, great service.",network,positive
+308,"Rude agent, about agent, asked about recharge, problem not solved.",service,negative
+309,"Rude agent, called about my plan, about support, transferred many times.",service,negative
+310,"Checked my balance, about signal, friendly agent, fast response.",network,positive
+311,"Asked about recharge, easy refund, about bill, excellent support.",billing,positive
+312,"Wrong bill, called about my plan, terrible service, about refund.",billing,negative
+313,"Call dropped, about agent, asked about recharge, problem not solved.",service,negative
+314,"Asked about recharge, about support, great service, clear explanation.",service,positive
+315,"About bill, problem not solved, updated my address, transferred many times.",billing,negative
+316,"Very helpful, updated my address, about refund, fast response.",billing,positive
+317,"Terrible service, asked about recharge, about call, problem not solved.",service,negative
+318,"Great service, updated my address, about signal, very helpful.",network,positive
+319,"About payment, asked about recharge, rude agent, wrong bill.",billing,negative
+320,"Wrong bill, about signal, checked my balance, call dropped.",network,negative
+321,"About refund, transferred many times, asked about recharge, call dropped.",billing,negative
+322,"Terrible service, about network, asked about recharge, transferred many times.",network,negative
+323,"About wait, called about my plan, problem not solved, terrible service.",service,negative
+324,"Transferred many times, wrong bill, about charges, called about my plan.",billing,negative
+325,"Hidden charges, no callback, asked about recharge, about payment.",billing,negative
+326,"Solved my problem, easy refund, about speed, updated my address.",network,positive
+327,"Problem not solved, asked about recharge, call dropped, about wait.",service,negative
+328,"Easy refund, clear explanation, about bill, called about my plan.",billing,positive
+329,"Polite and patient, updated my address, about refund, very helpful.",billing,positive
+330,"Great service, excellent support, asked about recharge, about network.",network,positive
+331,"About call, very helpful, called about my plan, fast response.",service,positive
+332,"Very helpful, excellent support, about wait, asked about recharge.",service,positive
+333,"About network, quick resolution, updated my address, fast response.",network,positive
+334,"Terrible service, about call, checked my balance, wrong bill.",service,negative
+335,"About network, updated my address, problem not solved, rude agent.",network,negative
+336,"Asked about recharge, fast response, excellent support, about refund.",billing,positive
+337,"Polite and patient, about signal, called about my plan, great service.",network,positive
+338,"Very helpful, clear explanation, updated my address, about charges.",billing,positive
+339,"Great service, about wait, checked my balance, friendly agent.",service,positive
+340,"Called about my plan, polite and patient, fast response, about agent.",service,positive
+341,"Very helpful, checked my balance, polite and patient, about signal.",network,positive
+342,"Called about my plan, excellent support, about refund, great service.",billing,positive
+343,"Polite and patient, great service, about agent, called about my plan.",service,positive
+344,"About charges, terrible service, asked about recharge, call dropped.",billing,negative
+345,"Asked about recharge, clear explanation, about signal, polite and patient.",network,positive
+346,"Called about my plan, about support, very helpful, fast response.",service,positive
+347,"Great service, asked about recharge, clear explanation, about bill.",billing,positive
+348,"Quick resolution, great service, about network, asked about recharge.",network,positive
+349,"Hidden charges, about bill, long wait time, called about my plan.",billing,negative
+350,"Slow internet, about bill, rude agent, checked my balance.",billing,negative
+351,"Hidden charges, checked my balance, about wait, wrong bill.",service,negative
+352,"About internet, call dropped, checked my balance, long wait time.",network,negative
+353,"Slow internet, updated my address, rude agent, about bill.",billing,negative
+354,"Problem not solved, about internet, updated my address, no callback.",network,negative
+355,"Asked about recharge, friendly agent, easy refund, about signal.",network,positive
+356,"Checked my balance, hidden charges, terrible service, about support.",service,negative
+357,"Friendly agent, about wait, easy refund, called about my plan.",service,positive
+358,"Clear explanation, checked my balance, about speed, easy refund.",network,positive
+359,"About support, fast response, updated my address, very helpful.",service,positive
+360,"About internet, fast response, called about my plan, polite and patient.",network,positive
+361,"About agent, transferred many times, wrong bill, asked about recharge.",service,negative
+362,"Call dropped, long wait time, asked about recharge, about signal.",network,negative
+363,"About speed, solved my problem, updated my address, friendly agent.",network,positive
+364,"Rude agent, about charges, terrible service, called about my plan.",billing,negative
+365,"Hidden charges, problem not solved, about call, checked my balance.",service,negative
+366,"Easy refund, about internet, friendly agent, updated my address.",network,positive
+367,"Checked my balance, long wait time, about charges, call dropped.",billing,negative
+368,"About internet, very helpful, solved my problem, called about my plan.",network,positive
+369,"Problem not solved, call dropped, about charges, checked my balance.",billing,negative
+370,"Problem not solved, slow internet, about internet, asked about recharge.",network,negative
+371,"About agent, easy refund, called about my plan, clear explanation.",service,positive
+372,"About speed, clear explanation, polite and patient, asked about recharge.",network,positive
+373,"Friendly agent, great service, checked my balance, about signal.",network,positive
+374,"Asked about recharge, about internet, solved my problem, polite and patient.",network,positive
+375,"Checked my balance, about speed, fast response, easy refund.",network,positive
+376,"About internet, updated my address, great service, easy refund.",network,positive
+377,"Updated my address, call dropped, long wait time, about bill.",billing,negative
+378,"About speed, asked about recharge, solved my problem, clear explanation.",network,positive
+379,"Transferred many times, about call, asked about recharge, long wait time.",service,negative
+380,"No callback, wrong bill, about agent, asked about recharge.",service,negative
+381,"Very helpful, called about my plan, about signal, clear explanation.",network,positive
+382,"Clear explanation, polite and patient, about wait, checked my balance.",service,positive
+383,"Asked about recharge, friendly agent, about refund, very helpful.",billing,positive
+384,"Polite and patient, very helpful, checked my balance, about wait.",service,positive
+385,"About support, checked my balance, hidden charges, wrong bill.",service,negative
+386,"Easy refund, about speed, clear explanation, asked about recharge.",network,positive
+387,"Updated my address, about bill, long wait time, slow internet.",billing,negative
+388,"Hidden charges, about speed, transferred many times, checked my balance.",network,negative
+389,"About bill, very helpful, called about my plan, polite and patient.",billing,positive
+390,"Transferred many times, no callback, about agent, asked about recharge.",service,negative
+391,"About refund, wrong bill, checked my balance, terrible service.",billing,negative
+392,"About bill, checked my balance, solved my problem, quick resolution.",billing,positive
+393,"Rude agent, updated my address, about speed, hidden charges.",network,negative
+394,"Terrible service, asked about recharge, about agent, long wait time.",service,negative
+395,"Terrible service, about refund, called about my plan, wrong bill.",billing,negative
+396,"Excellent support, clear explanation, about charges, asked about recharge.",billing,positive
+397,"Problem not solved, asked about recharge, rude agent, about speed.",network,negative
+398,"Clear explanation, quick resolution, about support, asked about recharge.",service,positive
+399,"Checked my balance, friendly agent, about wait, great service.",service,positive
+400,"Wrong bill, asked about recharge, about internet, long wait time.",network,negative
+401,"Updated my address, about bill, rude agent, problem not solved.",billing,negative
+402,"Terrible service, problem not solved, asked about recharge, about network.",network,negative
+403,"Problem not solved, about call, transferred many times, updated my address.",service,negative
+404,"Checked my balance, quick resolution, clear explanation, about payment.",billing,positive
+405,"About refund, rude agent, wrong bill, asked about recharge.",billing,negative
+406,"Checked my balance, wrong bill, about signal, hidden charges.",network,negative
+407,"About agent, asked about recharge, excellent support, great service.",service,positive
+408,"Solved my problem, about support, quick resolution, updated my address.",service,positive
+409,"About wait, fast response, checked my balance, very helpful.",service,positive
+410,"Long wait time, updated my address, about bill, terrible service.",billing,negative
+411,"Transferred many times, about charges, hidden charges, called about my plan.",billing,negative
+412,"Checked my balance, easy refund, about internet, great service.",network,positive
+413,"About support, rude agent, asked about recharge, wrong bill.",service,negative
+414,"Clear explanation, quick resolution, about network, checked my balance.",network,positive
+415,"Updated my address, no callback, long wait time, about call.",service,negative
+416,"About network, updated my address, great service, solved my problem.",network,positive
+417,"About wait, call dropped, asked about recharge, no callback.",service,negative
+418,"Hidden charges, problem not solved, updated my address, about speed.",network,negative
+419,"Asked about recharge, no callback, about call, problem not solved.",service,negative
+420,"Hidden charges, asked about recharge, rude agent, about signal.",network,negative
+421,"Great service, quick resolution, about charges, called about my plan.",billing,positive
+422,"Quick resolution, polite and patient, about refund, asked about recharge.",billing,positive
+423,"Called about my plan, clear explanation, about wait, friendly agent.",service,positive
+424,"Asked about recharge, excellent support, about internet, friendly agent.",network,positive
+425,"Called about my plan, hidden charges, about internet, rude agent.",network,negative
+426,"About wait, quick resolution, updated my address, friendly agent.",service,positive
+427,"Terrible service, transferred many times, called about my plan, about charges.",billing,negative
+428,"About network, call dropped, transferred many times, checked my balance.",network,negative
+429,"Checked my balance, about payment, long wait time, no callback.",billing,negative
+430,"Rude agent, slow internet, about wait, updated my address.",service,negative
+431,"Updated my address, transferred many times, call dropped, about call.",service,negative
+432,"Asked about recharge, about charges, no callback, problem not solved.",billing,negative
+433,"Polite and patient, about call, asked about recharge, fast response.",service,positive
+434,"Updated my address, about agent, very helpful, fast response.",service,positive
+435,"No callback, asked about recharge, about charges, slow internet.",billing,negative
+436,"Hidden charges, about wait, problem not solved, called about my plan.",service,negative
+437,"No callback, terrible service, updated my address, about call.",service,negative
+438,"No callback, rude agent, checked my balance, about signal.",network,negative
+439,"Long wait time, checked my balance, transferred many times, about signal.",network,negative
+440,"Problem not solved, about call, asked about recharge, no callback.",service,negative
+441,"Quick resolution, called about my plan, about wait, solved my problem.",service,positive
+442,"Checked my balance, fast response, about wait, solved my problem.",service,positive
+443,"Checked my balance, no callback, about refund, terrible service.",billing,negative
+444,"About agent, called about my plan, clear explanation, quick resolution.",service,positive
+445,"Asked about recharge, fast response, about network, excellent support.",network,positive
+446,"About agent, transferred many times, updated my address, terrible service.",service,negative
+447,"Checked my balance, slow internet, about refund, call dropped.",billing,negative
+448,"Called about my plan, long wait time, wrong bill, about signal.",network,negative
+449,"Hidden charges, about agent, terrible service, asked about recharge.",service,negative
+450,"Wrong bill, long wait time, about signal, checked my balance.",network,negative
+451,"Fast response, about speed, called about my plan, polite and patient.",network,positive
+452,"Solved my problem, about signal, updated my address, excellent support.",network,positive
+453,"About wait, transferred many times, updated my address, long wait time.",service,negative
+454,"Updated my address, about internet, excellent support, great service.",network,positive
+455,"About bill, problem not solved, asked about recharge, slow internet.",billing,negative
+456,"Wrong bill, checked my balance, about speed, problem not solved.",network,negative
+457,"Checked my balance, about refund, easy refund, excellent support.",billing,positive
+458,"Updated my address, terrible service, hidden charges, about support.",service,negative
+459,"Updated my address, long wait time, call dropped, about payment.",billing,negative
+460,"Problem not solved, about charges, called about my plan, wrong bill.",billing,negative
+461,"About signal, quick resolution, called about my plan, fast response.",network,positive
+462,"Call dropped, asked about recharge, about network, slow internet.",network,negative
+463,"Solved my problem, quick resolution, about agent, asked about recharge.",service,positive
+464,"Friendly agent, called about my plan, about payment, polite and patient.",billing,positive
+465,"Asked about recharge, problem not solved, slow internet, about call.",service,negative
+466,"About network, wrong bill, asked about recharge, hidden charges.",network,negative
+467,"Checked my balance, hidden charges, about refund, no callback.",billing,negative
+468,"Checked my balance, clear explanation, about speed, polite and patient.",network,positive
+469,"Very helpful, fast response, about support, called about my plan.",service,positive
+470,"About signal, checked my balance, wrong bill, call dropped.",network,negative
+471,"Problem not solved, no callback, asked about recharge, about wait.",service,negative
+472,"Updated my address, about signal, very helpful, quick resolution.",network,positive
+473,"About charges, great service, checked my balance, fast response.",billing,positive
+474,"Wrong bill, long wait time, about speed, checked my balance.",network,negative
+475,"Called about my plan, terrible service, about speed, slow internet.",network,negative
+476,"Call dropped, asked about recharge, about network, slow internet.",network,negative
+477,"Wrong bill, transferred many times, called about my plan, about support.",service,negative
+478,"Updated my address, friendly agent, about charges, easy refund.",billing,positive
+479,"About network, fast response, quick resolution, checked my balance.",network,positive
+480,"Checked my balance, about wait, very helpful, quick resolution.",service,positive
+481,"Transferred many times, checked my balance, rude agent, about agent.",service,negative
+482,"Checked my balance, wrong bill, about speed, slow internet.",network,negative
+483,"Easy refund, about internet, called about my plan, polite and patient.",network,positive
+484,"Friendly agent, fast response, updated my address, about payment.",billing,positive
+485,"Hidden charges, updated my address, rude agent, about signal.",network,negative
+486,"Checked my balance, friendly agent, about call, easy refund.",service,positive
+487,"Called about my plan, problem not solved, about refund, slow internet.",billing,negative
+488,"Polite and patient, about call, excellent support, checked my balance.",service,positive
+489,"Asked about recharge, long wait time, about bill, slow internet.",billing,negative
+490,"Friendly agent, asked about recharge, clear explanation, about charges.",billing,positive
+491,"Long wait time, asked about recharge, about internet, slow internet.",network,negative
+492,"Checked my balance, terrible service, about call, hidden charges.",service,negative
+493,"Polite and patient, called about my plan, easy refund, about wait.",service,positive
+494,"Easy refund, about internet, updated my address, great service.",network,positive
+495,"No callback, slow internet, about agent, checked my balance.",service,negative
+496,"About bill, great service, polite and patient, asked about recharge.",billing,positive
+497,"Easy refund, very helpful, about support, checked my balance.",service,positive
+498,"About network, quick resolution, checked my balance, solved my problem.",network,positive
+499,"About internet, called about my plan, friendly agent, very helpful.",network,positive
+500,"Checked my balance, hidden charges, about bill, problem not solved.",billing,negative
+501,"Updated my address, excellent support, fast response, about support.",service,positive
+502,"Terrible service, long wait time, called about my plan, about agent.",service,negative
+503,"Fast response, great service, checked my balance, about bill.",billing,positive
+504,"Checked my balance, transferred many times, about speed, no callback.",network,negative
+505,"Call dropped, terrible service, called about my plan, about refund.",billing,negative
+506,"Slow internet, about agent, called about my plan, no callback.",service,negative
+507,"About internet, no callback, hidden charges, checked my balance.",network,negative
+508,"Transferred many times, rude agent, updated my address, about bill.",billing,negative
+509,"Updated my address, transferred many times, slow internet, about agent.",service,negative
+510,"Asked about recharge, very helpful, clear explanation, about wait.",service,positive
+511,"Updated my address, no callback, about support, wrong bill.",service,negative
+512,"Long wait time, problem not solved, called about my plan, about payment.",billing,negative
+513,"Easy refund, asked about recharge, quick resolution, about charges.",billing,positive
+514,"Rude agent, about charges, updated my address, call dropped.",billing,negative
+515,"Called about my plan, transferred many times, about charges, no callback.",billing,negative
+516,"Updated my address, wrong bill, call dropped, about payment.",billing,negative
+517,"Polite and patient, excellent support, checked my balance, about internet.",network,positive
+518,"Called about my plan, about call, long wait time, call dropped.",service,negative
+519,"About support, easy refund, called about my plan, friendly agent.",service,positive
+520,"Called about my plan, no callback, about signal, slow internet.",network,negative
+521,"Asked about recharge, polite and patient, about bill, quick resolution.",billing,positive
+522,"About call, updated my address, terrible service, transferred many times.",service,negative
+523,"Friendly agent, about wait, great service, called about my plan.",service,positive
+524,"Updated my address, long wait time, about speed, call dropped.",network,negative
+525,"Transferred many times, updated my address, hidden charges, about call.",service,negative
+526,"About charges, clear explanation, fast response, updated my address.",billing,positive
+527,"About charges, transferred many times, problem not solved, checked my balance.",billing,negative
+528,"Asked about recharge, about refund, hidden charges, rude agent.",billing,negative
+529,"About payment, asked about recharge, call dropped, problem not solved.",billing,negative
+530,"About payment, asked about recharge, rude agent, slow internet.",billing,negative
+531,"Great service, checked my balance, about bill, friendly agent.",billing,positive
+532,"Slow internet, called about my plan, about bill, problem not solved.",billing,negative
+533,"Slow internet, asked about recharge, call dropped, about signal.",network,negative
+534,"Solved my problem, about internet, updated my address, polite and patient.",network,positive
+535,"Checked my balance, about speed, rude agent, hidden charges.",network,negative
+536,"About wait, updated my address, polite and patient, friendly agent.",service,positive
+537,"Checked my balance, hidden charges, about agent, no callback.",service,negative
+538,"Long wait time, asked about recharge, slow internet, about bill.",billing,negative
+539,"Solved my problem, called about my plan, easy refund, about wait.",service,positive
+540,"No callback, asked about recharge, long wait time, about speed.",network,negative
+541,"Easy refund, fast response, checked my balance, about support.",service,positive
+542,"Updated my address, very helpful, friendly agent, about speed.",network,positive
+543,"About internet, terrible service, called about my plan, long wait time.",network,negative
+544,"Updated my address, polite and patient, quick resolution, about signal.",network,positive
+545,"About network, called about my plan, solved my problem, excellent support.",network,positive
+546,"Easy refund, asked about recharge, great service, about call.",service,positive
+547,"Hidden charges, asked about recharge, about call, terrible service.",service,negative
+548,"Updated my address, transferred many times, about wait, hidden charges.",service,negative
+549,"Excellent support, about call, very helpful, checked my balance.",service,positive
+550,"Quick resolution, about wait, easy refund, called about my plan.",service,positive
+551,"Slow internet, asked about recharge, call dropped, about call.",service,negative
+552,"Fast response, called about my plan, about internet, excellent support.",network,positive
+553,"Fast response, about call, asked about recharge, clear explanation.",service,positive
+554,"Checked my balance, about wait, friendly agent, solved my problem.",service,positive
+555,"About network, updated my address, quick resolution, easy refund.",network,positive
+556,"About support, quick resolution, updated my address, easy refund.",service,positive
+557,"Updated my address, about payment, rude agent, call dropped.",billing,negative
+558,"Called about my plan, wrong bill, transferred many times, about refund.",billing,negative
+559,"About refund, hidden charges, slow internet, checked my balance.",billing,negative
+560,"About charges, asked about recharge, great service, solved my problem.",billing,positive
+561,"Asked about recharge, fast response, about speed, great service.",network,positive
+562,"Slow internet, checked my balance, transferred many times, about support.",service,negative
+563,"About bill, long wait time, transferred many times, called about my plan.",billing,negative
+564,"About signal, called about my plan, solved my problem, friendly agent.",network,positive
+565,"About refund, no callback, wrong bill, asked about recharge.",billing,negative
+566,"Problem not solved, wrong bill, about internet, called about my plan.",network,negative
+567,"Friendly agent, checked my balance, about network, polite and patient.",network,positive
+568,"No callback, about charges, asked about recharge, call dropped.",billing,negative
+569,"About support, polite and patient, very helpful, updated my address.",service,positive
+570,"Updated my address, no callback, wrong bill, about support.",service,negative
+571,"Rude agent, called about my plan, slow internet, about support.",service,negative
+572,"About refund, slow internet, wrong bill, called about my plan.",billing,negative
+573,"Transferred many times, checked my balance, wrong bill, about support.",service,negative
+574,"Updated my address, easy refund, polite and patient, about network.",network,positive
+575,"Terrible service, asked about recharge, slow internet, about refund.",billing,negative
+576,"Easy refund, called about my plan, very helpful, about internet.",network,positive
+577,"No callback, checked my balance, slow internet, about agent.",service,negative
+578,"About payment, long wait time, asked about recharge, transferred many times.",billing,negative
+579,"Call dropped, updated my address, no callback, about speed.",network,negative
+580,"Hidden charges, about support, wrong bill, called about my plan.",service,negative
+581,"Checked my balance, call dropped, long wait time, about agent.",service,negative
+582,"Friendly agent, quick resolution, about charges, updated my address.",billing,positive
+583,"Slow internet, problem not solved, asked about recharge, about signal.",network,negative
+584,"Friendly agent, about payment, polite and patient, updated my address.",billing,positive
+585,"About payment, clear explanation, polite and patient, updated my address.",billing,positive
+586,"Polite and patient, about refund, excellent support, updated my address.",billing,positive
+587,"Call dropped, called about my plan, wrong bill, about internet.",network,negative
+588,"About network, very helpful, quick resolution, checked my balance.",network,positive
+589,"Call dropped, terrible service, about charges, checked my balance.",billing,negative
+590,"Wrong bill, call dropped, asked about recharge, about support.",service,negative
+591,"Hidden charges, about signal, wrong bill, checked my balance.",network,negative
+592,"Hidden charges, called about my plan, about bill, call dropped.",billing,negative
+593,"About internet, hidden charges, no callback, called about my plan.",network,negative
+594,"Asked about recharge, very helpful, easy refund, about call.",service,positive
+595,"Updated my address, clear explanation, polite and patient, about signal.",network,positive
+596,"Asked about recharge, about network, slow internet, hidden charges.",network,negative
+597,"Called about my plan, problem not solved, long wait time, about network.",network,negative
+598,"Updated my address, about agent, rude agent, wrong bill.",service,negative
+599,"About call, asked about recharge, clear explanation, polite and patient.",service,positive
+600,"About agent, rude agent, asked about recharge, hidden charges.",service,negative

@@ -45,6 +45,8 @@
 
 ## 3. 12-week launch plan
 
+> **🔄 Update:** The "Upskill" column now follows the MBA rebuild. Weeks 1–12 = **Semester 1** (M1–M7) in [`/mba-ai-ds/semester-1.md`](../mba-ai-ds/semester-1.md). The weekly rhythm (Learn → Understand → Build → Teach) is in [`/mba-ai-ds/README.md`](../mba-ai-ds/README.md). Your calendar file is [`weekly-timetable.ics`](weekly-timetable.ics) (import steps in [`/START-HERE.md`](../START-HERE.md)).
+
 | Week | Upskill (see file 03) | Repo project (see file 04) | Content | Writing |
 |---|---|---|---|---|
 | 1 | Excel: Power Query basics | Set up Task 5 tracker | Niche research, 30 ideas, create channel + IG | Start poetry doc, 3 poems |

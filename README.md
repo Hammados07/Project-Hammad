@@ -1,3 +1,5 @@
+> 👋 **New here? Open [`START-HERE.md`](START-HERE.md).** It explains how to use this repo, the setup steps, the timetable, and the **MBA in AI & Data Science rebuild** course in [`/mba-ai-ds`](mba-ai-ds/README.md). The side-income and schedule plan is in [`/growth-plan`](growth-plan/README.md).
+
 ---
 ## 📝 Project Overview
 

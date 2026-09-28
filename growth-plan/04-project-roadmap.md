@@ -16,6 +16,8 @@ Tasks 1–4 (SQL capstone) are done. New projects continue the numbering. Each o
 | 10 | **Real-Time Adherence Alert Bot**: script that reads a (synthetic) agent-state feed and flags adherence/SLA breaches | Python automation | Weeks 20–21 | ⬜ |
 | 11 | **Creator Analytics Dashboard**: YouTube + Instagram exports combined with the Task 5 tracker | Python / Power BI | Weeks 22–23 | ⬜ |
 
+**Where each project fits in the MBA rebuild:** Task 6 → M7 (SQL) · Task 7 → M15 (Power BI) · Task 8 → M10/M20 (starter: `mba-ai-ds/labs/python/08_optimisation_staffing.py`) · Task 9 → M19 (starter: `labs/python/07_time_series_forecast.py`) · Task 10 → M20–M21 · Task 11 → M22 · **Capstone → M28**.
+
 ## Suggested folder layout as the repo grows
 ```
 Project-Hammad/

@@ -9,6 +9,9 @@ This folder is my personal roadmap for building extra income alongside my full-t
 | [`02-schedule-and-timetable.md`](02-schedule-and-timetable.md) | Daily/weekly timetable, 12-week launch plan and 12-month milestones |
 | [`03-upskill-timetable.md`](03-upskill-timetable.md) | 24-week upskilling syllabus (Excel → SQL → Power BI → Python → WFM analytics) |
 | [`04-project-roadmap.md`](04-project-roadmap.md) | Portfolio projects to build in this repo, one per upskill block |
+| [`weekly-timetable.ics`](weekly-timetable.ics) | The weekly routine as a calendar file. Import it into Google Calendar |
+| [`../mba-ai-ds/`](../mba-ai-ds/README.md) | **The main upskilling track:** 48-week MBA in AI & Data Science rebuild |
+| [`../START-HERE.md`](../START-HERE.md) | How to open these files, set up, and begin |
 
 ---
 

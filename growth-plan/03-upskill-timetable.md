@@ -1,5 +1,9 @@
 # 📚 Upskill Timetable (24 weeks)
 
+> **🔄 Update:** My main upskilling track is now the **48-week MBA in AI & Data Science rebuild** in [`/mba-ai-ds`](../mba-ai-ds/README.md). It already includes everything below:
+> Excel → **M5**, SQL → **M7**, Power BI → **M15**, Python → **M6/M16**, statistics → **M4/M12**, forecasting → **M19**, automation/optimisation → **M20**, PL-300 prep → alongside **M15**.
+> Keep this page as the **quick, job-focused (RTA → WFM/MIS) version** if I ever need to fast-track for an interview.
+
 **Goal:** Go from Real-Time Analyst → **WFM Analyst / MIS Analyst / Data Analyst**, with skills that also make the content and freelancing work better.
 
 **Time:** 3 deep-work sessions (Mon, Tue, Thu mornings, 60 min) + 2 project sessions (Wed, Fri) per week ≈ **5 hrs/week**.
